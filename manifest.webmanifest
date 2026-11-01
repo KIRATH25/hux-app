@@ -1,0 +1,44 @@
+{
+  "id": "/hux-app/",
+  "name": "HUX - Human Utility eXchange",
+  "short_name": "HUX",
+  "description": "The campus exchange for GLA University students: lend, rent, sell and swap skills safely.",
+  "lang": "en-IN",
+  "start_url": "/hux-app/",
+  "scope": "/hux-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F5EF",
+  "theme_color": "#171717",
+  "categories": [
+    "education",
+    "lifestyle",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/hux-app/pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hux-app/pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hux-app/pwa/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/hux-app/pwa/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
