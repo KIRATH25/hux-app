@@ -6,9 +6,9 @@
  *    those requests are not touched at all and always go to the network;
  *  - shows the notifications Apple delivers (web push) and opens the right screen when one is tapped.
  */
-const VERSION = 'c879733c339e';
+const VERSION = '99b82c54c7ab';
 const BASE = '/hux-app';
-const SHELL = ["/hux-app/index.html","/hux-app/_expo/static/js/web/entry-cd2da26348f2e53dc90065a4c6f9c85d.js","/hux-app/manifest.webmanifest","/hux-app/pwa.js","/hux-app/pwa/icon-192.png","/hux-app/pwa/icon-512.png","/hux-app/pwa/apple-touch-icon.png","/hux-app/pwa/badge-96.png"];
+const SHELL = ["/hux-app/index.html","/hux-app/_expo/static/js/web/entry-65cec0e36dd1878321c7db63b0a5700a.js","/hux-app/manifest.webmanifest","/hux-app/pwa.js","/hux-app/pwa/icon-192.png","/hux-app/pwa/icon-512.png","/hux-app/pwa/apple-touch-icon.png","/hux-app/pwa/badge-96.png"];
 const CACHE = 'hux-' + VERSION;
 const INDEX = BASE + '/index.html';
 
