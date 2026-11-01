@@ -16,6 +16,11 @@
     return;
   }
 
+  // Android uses the APK: Chrome must never offer to "Install app" from this page
+  window.addEventListener('beforeinstallprompt', function (e) {
+    e.preventDefault();
+  });
+
   // The service worker: fast start, the offline page and notifications
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {
