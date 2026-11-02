@@ -3,6 +3,6 @@
 **Open it:** https://kirath25.github.io/hux-app/ in Safari on your iPhone, then tap Share and **Add to Home Screen**.
 Step-by-step guide: https://kirath25.github.io/hux-website/iphone/
 
-This repository only holds the built files that GitHub Pages serves (version `0de85fa0911c`).
+This repository only holds the built files that GitHub Pages serves (version `74d5b2eb9e23`).
 They are produced by `scripts/build-web.mjs` in the HUX app repository and published with `scripts/deploy-web.mjs`;
 do not edit them here.
