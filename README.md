@@ -1,8 +1,3 @@
-# HUX web app (iPhone version)
+# HUX has moved
 
-**Open it:** https://kirath25.github.io/hux-app/ in Safari on your iPhone, then tap Share and **Add to Home Screen**.
-Step-by-step guide: https://myhux.in/iphone/
-
-This repository only holds the built files that GitHub Pages serves (version `49ce338db9c7`).
-They are produced by `scripts/build-web.mjs` in the HUX app repository and published with `scripts/deploy-web.mjs`;
-do not edit them here.
+The iPhone version of HUX now opens from https://myhux.in/open/ . This address only shows a notice.

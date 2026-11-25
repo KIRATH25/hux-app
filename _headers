@@ -1,9 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'self'; script-src 'self'; connect-src 'self' https://onxzgihdofquvujofrfr.supabase.co wss://onxzgihdofquvujofrfr.supabase.co blob: data:; img-src 'self' data: blob: https://onxzgihdofquvujofrfr.supabase.co; style-src 'self' 'unsafe-inline'; font-src 'self' data:; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(self), geolocation=(), microphone=()
-  Strict-Transport-Security: max-age=31536000
-  X-Frame-Options: DENY
-/sw.js
-  Cache-Control: no-cache
